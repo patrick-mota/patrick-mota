@@ -13,3 +13,5 @@
  💬 Ask me about PHP, Symfony, Docker, Raspberry pi, Arduino
  
  📫 [Twitter](https://twitter.com/8ice)
+
+![https://github.com/patrick-mota](https://octodex.github.com/images/gangnamtocat.png)
